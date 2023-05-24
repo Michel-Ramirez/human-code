@@ -1,7 +1,7 @@
 # Preparare lasagne alla bolognese
 Conosciamo tutti gli ingredienti, tempi di cottura e modalità.
 
-- **SE NON** abiamo tutti gli ingradienti
+- **SE NON** abiamo tutti gli ingredienti
     - FINE
 
 - **ALTRIMENTI** Preparo gli ingredienti
